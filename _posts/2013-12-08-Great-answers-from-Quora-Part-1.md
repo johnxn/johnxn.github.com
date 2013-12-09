@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "my first translation"
+title: "我希望23岁那年有人跟我说过这些"
 description: ""
 category: ""
 tags: []
 ---
 {% include JB/setup %}
 Quora 上的一篇精彩回答，尝试把它翻译了一下。
-原文链接：http://www.quora.com/Life-Advice/What-can-I-start-doing-now-that-will-help-me-a-lot-in-about-five-years
+[原文链接](http://www.quora.com/Life-Advice/What-can-I-start-doing-now-that-will-help-me-a-lot-in-about-five-years)
 
-有什么事情我可以现在就开始做，未来五年会对我帮助很大？
+问：有什么事情现在开始做，未来五年会对我帮助很大？
 任何建议都行。先说下我自身的情况。我今年23岁，是一名物理系的学生。我十分渴望能提升自我，不只在专业方面，而且希望在生活的方方面面都能取得长足的进步。
 
 大卫•卡农的回答：
@@ -35,13 +35,13 @@ Quora 上的一篇精彩回答，尝试把它翻译了一下。
 
 十、确保有一片私人空间能够每天大声跟上帝说话，即使你没有宗教信仰或者你压根不信上帝。整理你的思路想法，张开你的嘴大声的对着宇宙说出来吧。如果这期间有一些好的想法，用笔把他们记下来。当你说出这些的时候，在某个地方某个比你更有智慧的生物其实一直在聆听和回应，有时候这个人可能是另一面的你。
 
-十一、用 http://Mint.com 这个网站记录你的开支。制定自己的开支预算，并且严格遵守它。你现在就得学会精打细算了，这样以后的生活才不会捉肘见襟。
+十一、用[这个网站](http://Mint.com) 这个网站记录你的开支。制定自己的开支预算，并且严格遵守它。你现在就得学会精打细算了，这样以后的生活才不会捉肘见襟。
 
 十二、学会一门外语并且使用它。当然，掌握一门外语也会有它的副作用，不过跟它的积极作用比起来实在不算什么。
 
 十三、学会扩展自己的人脉。建议阅读 "Never Eat Alone"。
 
-十四、学会做一顿廉价但美味的饭。特别推荐下面这款面包，快拿起手中的平底锅开煮吧。猛戳这个网址"http://www.steamykitchen.com/168-no-knead-bread-revisited.html"
+十四、学会做一顿廉价但美味的饭。特别推荐下面这款面包，快拿起手中的平底锅开煮吧。猛戳[这个网址](http://www.steamykitchen.com/168-no-knead-bread-revisited.html)
 
 十五、听一些能激励你并且让你感觉到还活着的歌。每天早上都听，如果是一些难为情的歌那就不告诉朋友，自己偷偷听。
 
